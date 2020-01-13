@@ -1,11 +1,34 @@
-.banner {
-	margin: 0px;
-	height: 300px;
+body {
 	background-color: #e6e6e6;
 }
-.banner>img{
-	height: 206px;
-	width: 354px;
+.banner {
+	margin: 0px;
+	height: 111px;
+	background-color: #e6e6e6;
+}
+.banner img{
+	height: 103px;
+	width: 177px;
 	align-content: center;
 	justify-content: center;
+}
+.buttons {
+	background-color: #e6e6e6;
+}
+button:hover {
+	font-size: 30px;
+	color: #800000;
+	border-width: 0px;
+	background-color: #ffffff;
+}
+button {
+	font-size: 30px;
+	border-width: 0px;
+	background-color: #e6e6e6;
+	height: 60px;
+	width: 150px;
+}
+.here {
+	color: #af8d0c;
+	background-color: #ffffff;
 }
