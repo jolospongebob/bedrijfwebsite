@@ -9,10 +9,13 @@ body {
 .banner img{
 	height: 103px;
 	width: 177px;
+	padding-top: 5px;
+	padding-left: 15px;
 	align-content: center;
 	justify-content: center;
 }
 .buttons {
+	padding-top: 10px;
 	background-color: #e6e6e6;
 }
 button:hover {
@@ -31,4 +34,8 @@ button {
 .here {
 	color: #af8d0c;
 	background-color: #ffffff;
+}
+#pc {
+	display: flex;
+	justify-content: center;
 }
