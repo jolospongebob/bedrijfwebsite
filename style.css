@@ -38,4 +38,5 @@ button {
 #pc {
 	display: flex;
 	justify-content: center;
+	float: right;
 }
